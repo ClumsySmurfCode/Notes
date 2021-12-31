@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Full stack development and System Design 
 - 💞️ I’m looking to collaborate on Microservices and AI/ML 
 - 📫 How to reach me "himanshumalviya2014@gmail.com"
+GitHub - himanshumalvi | Linked In -himanshumalviya2020/
+Discord - Smurf_lucky#2428 | 
+
 ---------------------------------------------------------------------------
 
 - SKILLS / Stacks / learning / working 
