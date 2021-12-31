@@ -37,5 +37,5 @@ GitHub Actions.
 System Design and Algo.) 2020 till
 present | 
 
-Post 2023 Target -
-Python & ML
+**Post 2023 Target - Python & ML**
+
