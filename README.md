@@ -5,6 +5,7 @@
 - 📫 How to reach me "himanshumalviya2014@gmail.com"
 GitHub - himanshumalvi | Linked In -himanshumalviya2020/
 Discord - Smurf_lucky#2428 | 
+**You can Drop Message on following contact point** (Use these contact only for TECH communication) 
 
 ---------------------------------------------------------------------------
 
