@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Himanshu Malvi 
-### JAVA/JAVA8, SpringBoot, Microservices |
+### JAVA/JAVA8, SpringBoot, Microservices | PostgreSQL, MongoDB | Docker | Kubernetes | AWS | UI
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshumalvi)](https://github.com/himanshumalvi/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumalvi&layout=compact)](https://github.com/himanshumalvi/github-readme-stats)
 
 <hr></hr> 
