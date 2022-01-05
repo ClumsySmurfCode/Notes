@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Himanshu Malvi 
-### JAVA/JAVA8, SpringBoot, Microservices | [Resume] <----(ask for accesss)
+### JAVA/JAVA8, SpringBoot, Microservices |
 <hr></hr> 
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -74,4 +74,3 @@ present |
 [linkedin]: https://www.linkedin.com/in/himanshumalviya2020/
 [Discord]: https://discord.com/
 [Gmail]: https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
-[Resume]: https://drive.google.com/file/d/1VNZX4dbMqMgAdIg-fEf3ghq7Tu3HPPgX/view?usp=sharing
