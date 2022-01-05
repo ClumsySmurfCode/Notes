@@ -1,17 +1,16 @@
-# 👋 Hi there, I'm Himanshu Malvi | 
-### JAVA/JAVA8, SpringBoot, Microservices | PostgreSQL, MongoDB | Docker | Kubernetes | AWS | UI
-#### Coding from 2014 - Today  & Improving opensource contribution 
-<hr></hr>  
+# 👋 Hi there, I'm Himanshu Malvi 
+
+### JAVA/JAVA8, SpringBoot, Microservices | PostgreSQL/MongoDB | Docker/Kubernetes/AWS | UI
+[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Discord" width="40px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][Discord]
+[<img align="left" alt="Gmail" width="40px" src="https://w7.pngwing.com/pngs/426/710/png-transparent-email-logo-computer-icons-gmail-miscellaneous-angle-photography.png" />][Gmail] 
+##### Coding from 2014 - Today  & Improving opensource contribution
+
+<hr></hr> 
 
 [![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshumalvi)](https://github.com/himanshumalvi/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumalvi&layout=compact)](https://github.com/himanshumalvi/github-readme-stats)
 
 <hr></hr> 
-
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Discord" width="40px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][Discord]
-[<img align="left" alt="Gmail" width="40px" src="https://w7.pngwing.com/pngs/426/710/png-transparent-email-logo-computer-icons-gmail-miscellaneous-angle-photography.png" />][Gmail]
-<br />
-<br />
 
 - 👀 I’m interested in Microservices and JAVA Frameworks
 - 🌱 I’m currently learning Full stack development and System Design
@@ -26,7 +25,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="50px" src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" />
+<img align="left" alt="JAVA" width="50px" src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" />
 <img align="left" alt="SpringBoot" width="50px" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/131026142/original/9b1c1cebb651cd68d16dc1baf84c2559f3eab540/create-a-spring-boot-application-based-on-your-requirements.png" />
 <img align="left" alt="SpringBoot" width="50px" src="https://i.morioh.com/2019/10/23/b180f9cafa30.jpg" />
 <img align="left" alt="Docker" width="50px" src="https://e7.pngegg.com/pngimages/304/1022/png-clipart-docker-bluemix-software-deployment-intermodal-container-puppet-container-marine-mammal-text.png" />
@@ -37,40 +36,30 @@
 <br />
 <br />
 
-- SKILLS / Stacks / learning / working 
-Primary - JAVA/JAVA8 | JAVA full
-stack | Springboot | Microservices
+### Primary SKILLS / Stacks / learning / working 
+ - JAVA/JAVA8 | JAVA full stack | Springboot | Microservices
 
-- Secondary/Self-learned -
-UI - HTML, CSS/SCSS
-Bootstrap/Material De.
-Angular-TypeScript, JavaScript.
+#### Secondary/Self-learned -
+UI - HTML, CSS/SCSS Bootstrap/Material De. Angular-TypeScript, JavaScript.
 
-- Lib - DLS/Amchart/Anychart and
-have understanding on UX
-HFD/LFD and Responsive Design.
+#### Lib - 
+DLS/Amchart/Anychart and have understanding on UX HFD/LFD and Responsive Design.
 
-- Beginner -> Reactive Prog.,
-WebFlux, JPA, Routers, Pub-Sub |
-ELK | Zipkin | Histrix,
-Nodejs(TypeScript)
+#### Beginner -> 
+Reactive Prog., WebFlux, JPA, Routers, Pub-Sub ELK | Zipkin | Histrix, Nodejs(TypeScript)
 
-- DB: PostgreSQL, MongoDB |
+#### DB: 
+PostgreSQL, MongoDB
 
-- DevOps Docker | Kubernetes| AWS
-GitHub Actions.
+#### DevOps 
+Docker | Kubernetes| AWS GitHub Actions.
 
-- Repo: SVN, GitLab, GitHub.
+#### Repo: SVN, GitLab, GitHub.
 
-- Scaling skill in -> DSA (DS,
-System Design and Algo.) 2020 till
-present | 
+#### Scaling skill in 
+DSA (DS, System Design and Algo.) 2020 till Today
 
-**Post 2023 Target - Python & ML**
-
-<hr></hr>
-
-
+## **Post 2023 Target - Python & ML**
 
 #### **"If you are HR and looking for Developer? Please do not contact me if you have restriction on budget." I am very much interested in good work but not ready for bargaining like "Fish market".** 
 
