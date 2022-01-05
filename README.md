@@ -1,5 +1,7 @@
-# 👋 Hi there, I'm Himanshu 
+# 👋 Hi there, I'm Himanshu Malvi 
 ### JAVA/JAVA8, SpringBoot, Microservices |
+[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshumalvi)](https://github.com/himanshumalvi/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumalvi&layout=compact)](https://github.com/himanshumalvi/github-readme-stats)
+
 <hr></hr> 
 
 [<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -65,9 +67,7 @@ present |
 
 <hr></hr>
 
-[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshumalvi)](https://github.com/himanshumalvi/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumalvi&layout=compact)](https://github.com/himanshumalvi/github-readme-stats)
 
 #### **"If you are HR and looking for Developer? Please do not contact me if you have restriction on budget." I am very much interested in good work but not ready for bargaining like "Fish market".** 
 
