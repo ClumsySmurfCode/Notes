@@ -37,27 +37,27 @@
 <br />
 
 ### Primary SKILLS / Stacks / learning / working 
- - JAVA/JAVA8 | JAVA full stack | Springboot | Microservices
+- JAVA/JAVA8 | JAVA full stack | Springboot | Microservices
 
 #### Secondary/Self-learned -
-UI - HTML, CSS/SCSS Bootstrap/Material De. Angular-TypeScript, JavaScript.
+- UI - HTML, CSS/SCSS Bootstrap/Material De. Angular-TypeScript, JavaScript.
 
 #### Lib - 
-DLS/Amchart/Anychart and have understanding on UX HFD/LFD and Responsive Design.
+- DLS/Amchart/Anychart and have understanding on UX HFD/LFD and Responsive Design.
 
 #### Beginner -> 
-Reactive Prog., WebFlux, JPA, Routers, Pub-Sub ELK | Zipkin | Histrix, Nodejs(TypeScript)
+- Reactive Prog., WebFlux, JPA, Routers, Pub-Sub ELK | Zipkin | Histrix, Nodejs(TypeScript)
 
 #### DB: 
-PostgreSQL, MongoDB
+- PostgreSQL, MongoDB
 
 #### DevOps 
-Docker | Kubernetes| AWS GitHub Actions.
+- Docker | Kubernetes| AWS GitHub Actions.
 
-#### Repo: SVN, GitLab, GitHub.
+## Repo - SVN, GitLab, GitHub.
 
 #### Scaling skill in 
-DSA (DS, System Design and Algo.) 2020 till Today
+- DSA (DS, System Design and Algo.) 2020 till Today
 
 ## **Post 2023 Target - Python & ML**
 
