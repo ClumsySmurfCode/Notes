@@ -1,7 +1,6 @@
 # 👋 Hi there, I'm Himanshu Malvi 
 
 ### JAVA/JAVA8, SpringBoot, Microservices | PostgreSQL/MongoDB | Docker/Kubernetes/AWS | UI
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Discord" width="40px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][Discord]
 [<img align="left" alt="Gmail" width="40px" src="https://w7.pngwing.com/pngs/426/710/png-transparent-email-logo-computer-icons-gmail-miscellaneous-angle-photography.png" />][Gmail] 
 ##### Coding from 2014 - Today  & Improving opensource contribution
@@ -17,7 +16,6 @@
 - 💞️ I’m looking to collaborate on Microservices and AI/ML
 - 📫 How to reach me "himanshumalviya2014@gmail.com" 
   - GitHub "https://github.com/himanshumalvi/himanshumalvi"
-  - Linked In - https://www.linkedin.com/in/himanshumalviya2020/
   - Discord - Smurf_lucky#2428
      
      **You can Drop Message on following contact point** (Use these contact only for TECH communication) 
@@ -63,6 +61,5 @@
 
 #### **"If you are HR and looking for Developer? Please do not contact me if you have restriction on budget." I am very much interested in good work but not ready for bargaining like "Fish market".** 
 
-[linkedin]: https://www.linkedin.com/in/himanshumalviya2020/
 [Discord]: https://discord.com/
 [Gmail]: https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
