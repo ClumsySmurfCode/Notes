@@ -59,7 +59,7 @@
 
 ## **Post 2023 Target - Python & ML**
 
-#### **"If you are HR and looking for Developer? Please do not contact me if you have restriction on budget." I am very much interested in good work but not ready for bargaining like "Fish market".** 
+#### I am very much interested in good work but not ready for bargaining like "Fish market".** 
 
 [Discord]: https://discord.com/
 [Gmail]: https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
