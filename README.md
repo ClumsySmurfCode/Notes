@@ -3,7 +3,6 @@
 ### JAVA/JAVA8, SpringBoot, Microservices | PostgreSQL/MongoDB | Docker/Kubernetes/AWS | UI
 [<img align="left" alt="Discord" width="40px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][Discord]
 [<img align="left" alt="Gmail" width="40px" src="https://w7.pngwing.com/pngs/426/710/png-transparent-email-logo-computer-icons-gmail-miscellaneous-angle-photography.png" />][Gmail] 
-##### Coding from 2014 - Today  & Improving opensource contribution
 
 <hr></hr> 
 
@@ -14,11 +13,10 @@
 - 👀 I’m interested in Microservices and JAVA Frameworks
 - 🌱 I’m currently learning Full stack development and System Design
 - 💞️ I’m looking to collaborate on Microservices and AI/ML
-- 📫 How to reach me "himanshumalviya2014@gmail.com" 
+- 📫 How to reach me "himanshumalvi.in@gmail.com" 
   - GitHub "https://github.com/himanshumalvi/himanshumalvi"
   - Discord - Smurf_lucky#2428
-     
-     **You can Drop Message on following contact point** (Use these contact only for TECH communication) 
+  - www.dev.to - https://dev.to/himanshumalvi
 <hr></hr>
 
 ### Languages and Tools:
@@ -37,13 +35,13 @@
 ### Primary SKILLS / Stacks / learning / working 
 - JAVA/JAVA8 | JAVA full stack | Springboot | Microservices
 
-#### Secondary/Self-learned -
+#### Self-learned -
 - UI - HTML, CSS/SCSS Bootstrap/Material De. Angular-TypeScript, JavaScript.
 
 #### Lib - 
 - DLS/Amchart/Anychart and have understanding on UX HFD/LFD and Responsive Design.
 
-#### Beginner -> 
+#### Beginner 
 - Reactive Prog., WebFlux, JPA, Routers, Pub-Sub ELK | Zipkin | Histrix, Nodejs(TypeScript)
 
 #### DB: 
@@ -52,14 +50,8 @@
 #### DevOps 
 - Docker | Kubernetes| AWS GitHub Actions.
 
-## Repo - SVN, GitLab, GitHub.
-
-#### Scaling skill in 
+#### Improving skills in 
 - DSA (DS, System Design and Algo.) 2020 till Today
-
-## **Post 2023 Target - Python & ML**
-
-#### I am very much interested in good work but not ready for bargaining like "Fish market".** 
 
 [Discord]: https://discord.com/
 [Gmail]: https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
