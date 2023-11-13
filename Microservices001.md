@@ -1,7 +1,9 @@
 ## Author : HIMANSHU MALVI ([himanshumalvi.in@gmail.com](https://github.com/himanshumalvi))
 ### Revision History 
-#### V1 - 01/OCT/2023 - Initial blue Print
-### Design Status : In-Progress 
+#### V1 - 01/OCT/2023 - Initial Blue Print
+### Design Status: In-Progress 
+
+# Building Production-Ready Microservices Architecture with Spring Boot, AWS, resilient DataBase(RDBMS or NoSQL) and services, ORM JPA/Hibernate, Apache Spark, scalable, , Event-driven AMQP and HTTP-based communication, Workflow management (Camunda Modeler etc),  CI/CD DevOps(Docker,K8) enabled, and Loose Coupling b/w services and technology.
 
 ## Contents:
 # Introduction
