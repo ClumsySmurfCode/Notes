@@ -139,7 +139,7 @@ Explain how blue-green deployment is implemented for minimizing downtime during 
 Security
 # [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc) 
 ![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/45bbf8c9-d0bc-4d46-b090-23b9095d27c1)
-
+### [Healthcare lens](https://docs.aws.amazon.com/wellarchitected/latest/healthcare-industry-lens/definitions.html)
 ## Identity and Access Management: 
 Discuss how AWS IAM is used for managing access to AWS resources.
 ### API Security: 
