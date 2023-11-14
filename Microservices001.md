@@ -131,18 +131,26 @@ Deployment
 
 # CI/CD Pipeline: 
 Discuss the continuous integration and continuous deployment pipeline used for deploying microservices.
+
+![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/9b7eed02-8c43-468c-9872-abc30b972842)
+
 ### Blue-Green Deployment: 
 Explain how blue-green deployment is implemented for minimizing downtime during updates.
 Security
+# [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc&wa-guidance-whitepapers.sort-by=item.additionalFields.sortDate&wa-guidance-whitepapers.sort-order=desc) 
+![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/45bbf8c9-d0bc-4d46-b090-23b9095d27c1)
 
-# Identity and Access Management: 
+## Identity and Access Management: 
 Discuss how AWS IAM is used for managing access to AWS resources.
 ### API Security: 
 Explain how API Gateway and microservices are secured using authentication and authorization mechanisms.
 Monitoring and Logging
 
-# Centralized Logging: 
+# [Centralized Logging](https://docs.aws.amazon.com/solutions/latest/centralized-logging-on-aws/overview.html): 
 Discuss the use of centralized logging to monitor and troubleshoot the system.
+![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/5ff0e25a-cc5d-4c1c-8aec-f4e5cf7fddfa)
+
+
 ### Metrics and Alerts: 
 Explain how metrics are collected and used for setting up alerts.
 Conclusion
