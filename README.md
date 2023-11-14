@@ -1,6 +1,4 @@
 # 👋 Hi there, I'm Himanshu Malvi 
-
-### JAVA/JAVA8, SpringBoot, Microservices | PostgreSQL/MongoDB | Docker/Kubernetes/AWS | UI
 [<img align="left" alt="Discord" width="40px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][Discord]
 [<img align="left" alt="Gmail" width="40px" src="https://w7.pngwing.com/pngs/426/710/png-transparent-email-logo-computer-icons-gmail-miscellaneous-angle-photography.png" />][Gmail] 
 <br/>
@@ -10,10 +8,38 @@
 
 <hr></hr> 
 
-- 👀 I’m interested in Microservices and JAVA Frameworks
-- 🌱 I’m currently learning Full stack development and System Design
-- 💞️ I’m looking to collaborate on Microservices and AI/ML
-- 📫 How to reach me "himanshumalvi.in@gmail.com" 
+🚀 Passionate Software Engineer | JAVA, MicroServices (Spring-boot) Specialist
+
+👋 Greetings! I'm Himanshu Malvi, a dedicated software engineer with expertise in Java and MicroServices development using Spring Boot. My journey in the tech world is fueled by curiosity, constant learning, and a drive to contribute to innovative solutions.
+
+🌟 Skills:
+
+Expert: Java, MicroServices (Spring-boot)
+Beginner: Python, Cloud, DevOps, Linux
+Improving: System Design
+🌐 Aspiring Microservices Architect:
+With a keen interest in crafting scalable and efficient systems, my goal is to evolve into a Microservices Architect. I thrive on challenges, enjoy exploring emerging technologies, and believe in the power of continuous improvement.
+
+🔍 Focus Areas:
+
+Java Development
+MicroServices Architecture
+Cloud Technologies
+DevOps Practices
+Linux Environments
+📚 Current Learning Journey:
+I'm actively enhancing my skills in Python, Cloud technologies, DevOps practices, and deepening my understanding of Linux systems. Each day is an opportunity to grow and contribute to cutting-edge solutions.
+
+🎯 Future Vision:
+I aspire not only to be a Microservices Architect but also a storyteller of technology solutions. I believe in the art of conveying complex technical concepts through compelling narratives, making technology accessible and exciting for everyone.
+
+🌐 Connect with me:
+Feel free to reach out for discussions, collaborations, or just a friendly chat! I'm open to connecting with fellow tech enthusiasts, industry professionals, and anyone passionate about the intersection of technology and storytelling.
+
+
+
+Let's build the future of technology together! 💻🌐✨
+- 📫 Reach out to me ✉️ Email: himanshumalvi.in@gmail.com
   - GitHub "https://github.com/himanshumalvi/himanshumalvi"
   - Discord - Smurf_lucky#2428
   - www.dev.to - https://dev.to/himanshumalvi
