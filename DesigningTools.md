@@ -5,3 +5,4 @@
 ## DataBase Design 
 - https://sqldbm.com/
 - https://dbdiagram.io/
+- https://www.quickdatabasediagrams.com/
