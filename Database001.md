@@ -63,6 +63,88 @@ Think of it like students and courses in a school. Each student can take multipl
 - In a "many-to-many" relationship, each student can be enrolled in multiple courses, and each course can have multiple students.
 - So, you can have a student associated with many courses, and a course associated with many students.
 
+### Decomplexify
+Reference: https://www.youtube.com/@decomplexify
+1NF,2NF, 3NF, BCNF, 4NF, 5NF 
+
+#### First Normal Form (1NF):
+
+- Idea: Ensure that each column in a table contains atomic (indivisible) values, and there are no repeating groups or arrays of data.
+- Example: If you have a column for phone numbers, make sure it holds only one phone number, not a list of numbers.
+
+
+
+#### Second Normal Form (2NF):
+
+- Idea: Meet 1NF and ensure that all non-key attributes are fully functionally dependent on the primary key.
+- Example: If you have a composite primary key (made up of multiple columns), make sure every other column depends on the entire composite key, not just part of it.
+
+#### Third Normal Form (3NF):
+
+- Idea: Meet 2NF and remove transitive dependencies. In simpler terms, make sure non-key columns don't depend on other non-key columns.
+- Example: If you have a table with employee information and the department manager is listed, the department manager's phone number should not be in the same table. Create a separate table for department information.
+
+#### Boyce-Codd Normal Form (BCNF):
+
+- Idea: Meet 3NF and ensure that every determinant (a column on which another column is functionally dependent) is a candidate key.
+- Example: If a table has multiple candidate keys, make sure that each non-prime attribute is fully functionally dependent on every superkey.
+
+#### Fourth Normal Form (4NF):
+
+- Idea: Meet BCNF and eliminate multivalued dependencies.
+- Example: If you have a table tracking courses and instructors, ensure that instructor information is not repeated for each course. Instead, have a separate table for instructors
+
+#### Fifth Normal Form (5NF):
+
+- Idea: Meet 4NF and eliminate join dependencies.
+- Example: If you have a table with information about employees and their projects, ensure that each fact (e.g., a project's start date) is stored in only one table.
+
+
+## 1. First Normal Form (1NF):
+Definition:
+
+A table is in 1NF if it contains only atomic (indivisible) values, and there are no repeating groups or arrays of data.
+Each column must have a single, indivisible value.
+
+Example:
+If you have a table of students with a column for "Phone Numbers" that can contain multiple phone numbers separated by commas, it's not in 1NF. To bring it to 1NF, you would create a new table for phone numbers, linking them to the student through a foreign key.
+
+## 2. Second Normal Form (2NF):
+Definition:
+A table is in 2NF if it is in 1NF and all non-key attributes are fully functionally dependent on the primary key.
+In simpler terms, there should be no partial dependencies.
+
+Example:
+If you have a composite primary key (e.g., StudentID and CourseID) and a column "Grade," the Grade should depend on both StudentID and CourseID. If it depends only on StudentID, it's a partial dependency and violates 2NF.
+
+##  3. Third Normal Form (3NF):
+Definition:
+A table is in 3NF if it is in 2NF, and there are no transitive dependencies.
+Non-key attributes should not depend on other non-key attributes.
+
+Example:
+If you have a table with columns StudentID, CourseID, ProfessorName, where ProfessorName depends on CourseID, it violates 3NF. The ProfessorName should be in a separate table with CourseID as its primary key.
+
+## BCNF (Boyce-Codd Normal Form):
+Definition:
+A table is in BCNF if it is in 3NF and for every non-trivial functional dependency, the left-hand side is a superkey.
+
+Example:
+If you have a table with columns StudentID, CourseID, ProfessorName, and ProfessorName depends only on StudentID, it violates BCNF. To achieve BCNF, separate out the Professor information into a table with StudentID as the primary key.
+
+## 4. Fourth Normal Form (4NF):
+Definition:
+A table is in 4NF if it is in BCNF and has no multi-valued dependencies.
+
+Example:
+If you have a table with columns StudentID, CourseID, ProfessorName, and CourseMaterial, where CourseMaterial depends on CourseID, it violates 4NF. To achieve 4NF, move CourseMaterial to a separate table with CourseID as its primary key.
+
+## 5. Fifth Normal Form (5NF):
+Definition:
+A table is in 5NF if it is in 4NF and there are no join dependencies.
+
+Example:
+If you have a table with columns StudentID, CourseID, ProfessorName, and OfficeLocation, where OfficeLocation depends on ProfessorName, it violates 5NF. To achieve 5NF, separate out the Professor information into a table with ProfessorName as its primary key.
 <hr>
 
 ![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/54b60f27-25a3-405c-940b-05e08ec4c710)
