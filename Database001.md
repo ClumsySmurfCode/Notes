@@ -5,7 +5,7 @@
 
 ### Database integrity and Validation 
 - Data Constraint
-  Unique, NOT NULL, NULL
+  PK, FK, Unique, NOT NULL, NULL, DEFAULT, CHECK
 
 
 ![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/54b60f27-25a3-405c-940b-05e08ec4c710)
