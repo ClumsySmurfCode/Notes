@@ -8,3 +8,9 @@ Creating a minified Linux image for Docker typically involves starting with a ba
 # Remove unnecessary packages
 RUN apk --no-cache del curl wget \
     && rm -rf /var/cache/apk/*
+
+Restart your computer.
+Make sure Docker is not running. If it is trying to start, then stop it and close it.
+Open your Applications folder and delete Docker, then empty the Trash (or brew uninstall docker).
+Download Docker Desktop again, and copy Docker to your /Applications folder (or brew install --cask docker).
+Once Docker is installed, open it and try starting the Docker daemon.
