@@ -1,3 +1,6 @@
+## Reference :
+https://www.youtube.com/watch?v=K1iu1kXkVoA
+
 
 ### Generic Methods in Java 
 Generic methods in Java allow you to write a method that can work with any type of data. By using generics, you can create methods and classes that are type-safe and can work with different data types without sacrificing type information at compile time. Here's how you can define and use generic methods in Java:
