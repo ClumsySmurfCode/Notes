@@ -1,6 +1,8 @@
 # Java 8, the map and flatMap operations are commonly used in the context of streams.
 ![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/fc436641-8ad3-4f42-a0c9-b510811e4b3a)
 
+![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/7bec34cc-8026-4fd6-90d2-b2198c9ce251)
+
 
 ## 1. map Operation:
 The map operation is used to transform each element of a stream using a provided function. It applies the function to each element and produces a new stream of the transformed values.
