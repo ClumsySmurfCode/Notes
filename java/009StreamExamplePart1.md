@@ -54,22 +54,19 @@ import java.util.stream.Collectors;
                   .collect(Collectors.groupingBy(Student::getDepartmantName, Collectors.counting()));
           System.out.println(collect);
       }
-
-
-    public static void findYougestStudent() {
-
+      
+## 7. The findYougestStudent method is designed to find the youngest student in the given list of Student objects. Let's break down the method:
+       public static void findYougestStudent() {
         int min = list.stream().mapToInt(Student::getAge).min().getAsInt();
-
         System.out.println("Minimum age of student is " + min);
-
+    
         // or
-
+    
         Student student = list.stream().min(Comparator.comparing(Student::getAge)).get();
-
         System.out.println("Young student is " + student);
-
     }
 
+## 8. 
     public static void getSeniorStudent() {
 
         int seniorStudent = list.stream().filter(t -> t.getGender().equals("Female")).mapToInt(Student::getAge).max()
@@ -83,7 +80,8 @@ import java.util.stream.Collectors;
         System.out.println("Senior Female student is " + student);
 
     }
-
+    
+## 9.
     public static void findRankBetween50to100() {
 
         List<Student> collect = list.stream().filter(t -> t.getRank() > 50 && t.getRank() < 100)
@@ -91,7 +89,8 @@ import java.util.stream.Collectors;
         System.out.println(collect);
 
     }
-
+    
+## 10.
     public static void findTheMaxcountStudentsIndepartment() {
 
         Entry<String, Long> entry = list.stream()
@@ -101,7 +100,8 @@ import java.util.stream.Collectors;
         System.out.println(entry);
 
     }
-
+    
+## 11.
     public static void findTheEmployeeWhoLeavesInMumbaiAndSortBytheriNames() {
 
         List<Student> collect = list.stream().filter(t -> t.getCity().equals("Mumbai"))
@@ -109,7 +109,8 @@ import java.util.stream.Collectors;
         System.out.println(collect);
 
     }
-
+    
+## 12.
     public static void noOfStudentPresentInCollege() {
 
         long count = list.stream().count();
@@ -117,7 +118,8 @@ import java.util.stream.Collectors;
         System.out.println(count);
 
     }
-
+    
+## 13.
     public static void findTheDepartmentHavingMaxStudent() {
 
         Entry<String, Long> entry = list.stream()
@@ -127,7 +129,8 @@ import java.util.stream.Collectors;
         System.out.println(entry.getKey() + " " + entry.getValue());
 
     }
-
+    
+## 14.
     public static void findTheAverageRankInAllDepartments() {
 
         Map<String, Double> collect = list.stream()
@@ -137,6 +140,7 @@ import java.util.stream.Collectors;
 
     }
 
+## 15.
     public static void findHighRankInEachDepartment() {
 
         Map<String, Optional<Student>> collect = list.stream().collect(Collectors.groupingBy(Student::getDepartmantName,
@@ -145,7 +149,8 @@ import java.util.stream.Collectors;
         System.out.println(collect);
 
     }
-
+    
+## 16.
     public static void sortTheStudentsBasedonRank() {
 
         List<Student> collect = list.stream().sorted(Comparator.comparing(Student::getRank))
@@ -155,6 +160,7 @@ import java.util.stream.Collectors;
         System.out.println(collect);
     }
 
+## 17.
     public static void findTheSecondHighestRank() {
 
         Student student = list.stream().sorted(Comparator.comparing(Student::getRank)).skip(1).findFirst().get();
@@ -162,7 +168,8 @@ import java.util.stream.Collectors;
         System.out.println(student);
 
     }
-
+    
+## 18.
     public static void displayRanksInEachDepartmentInDecendingOrder() {
 
         Map<String, List<Student>> collect = list.stream()
