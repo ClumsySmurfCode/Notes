@@ -1,17 +1,22 @@
-# Stream API Questions
+# Stream API 
 
 Below are some examples demonstrating the use of Java 8 Stream API functions.
 
-import java.util.Arrays;
-import java.util.Comparator;
-import java.util.List;
-import java.util.Map;
-import java.util.Optional;
-import java.util.OptionalInt;
-import java.util.Map.Entry;
-import java.util.stream.Collectors;
+# DATA Set 
 
-    
+         static List<Student> list = Arrays.asList(
+                    new Student(1, "Aditya", "Mall", 30, "Male", "Mechanical Engineering", 2014, "Mumbai", 122),
+                    new Student(2, "Pulkith", "Singh", 26, "Male", "Computer Engineering", 2018, "Delhi", 67),
+                    new Student(3, "Ankita", "Patil", 25, "Female", "Computer Engineering", 2019, "Kerala", 164),
+                    new Student(4, "Satish", "Malaghan", 30, "Male", "Mechanical Engineering", 2014, "Kerala", 26),
+                    new Student(5, "Darshan", "Mukd", 23, "Male", "Instrumentation Engineering", 2022, "Mumbai", 12),
+                    new Student(6, "Chetan", "Star", 24, "Male", "Mechanical Engineering", 2023, "Karnataka", 90),
+                    new Student(7, "Appu", "Raj", 31, "Male", "Electronics Engineering", 2014, "Karnataka", 324),
+                    new Student(8, "Nam", "Dev", 31, "Male", "Computer Engineering", 2014, "Karnataka", 433),
+                    new Student(9, "Sonu", "Shankar", 27, "Female", "Computer Engineering", 2018, "Karnataka", 7),
+                    new Student(10, "Satyam", "Pandey", 26, "Male", "Biotech Engineering", 2017, "Mumbai", 98));
+
+            
 ## 1. Find the Count of Students in Each Department
 
       public static void findTheCountOfStudentsInEachDepartment() {
@@ -66,7 +71,7 @@ import java.util.stream.Collectors;
         System.out.println("Young student is " + student);
     }
 
-## 8. 
+## 8. getSeniorStudent
     public static void getSeniorStudent() {
 
         int seniorStudent = list.stream().filter(t -> t.getGender().equals("Female")).mapToInt(Student::getAge).max()
@@ -81,7 +86,7 @@ import java.util.stream.Collectors;
 
     }
     
-## 9.
+## 9. findRankBetween50to100
     public static void findRankBetween50to100() {
 
         List<Student> collect = list.stream().filter(t -> t.getRank() > 50 && t.getRank() < 100)
@@ -90,7 +95,7 @@ import java.util.stream.Collectors;
 
     }
     
-## 10.
+## 10. findTheMaxcountStudentsIndepartment
     public static void findTheMaxcountStudentsIndepartment() {
 
         Entry<String, Long> entry = list.stream()
@@ -101,7 +106,7 @@ import java.util.stream.Collectors;
 
     }
     
-## 11.
+## 11. findTheEmployeeWhoLeavesInMumbaiAndSortBytheriNames
     public static void findTheEmployeeWhoLeavesInMumbaiAndSortBytheriNames() {
 
         List<Student> collect = list.stream().filter(t -> t.getCity().equals("Mumbai"))
@@ -110,7 +115,7 @@ import java.util.stream.Collectors;
 
     }
     
-## 12.
+## 12. find noOfStudentPresentInCollege
     public static void noOfStudentPresentInCollege() {
 
         long count = list.stream().count();
@@ -119,7 +124,7 @@ import java.util.stream.Collectors;
 
     }
     
-## 13.
+## 13. find findTheDepartmentHavingMaxStudent
     public static void findTheDepartmentHavingMaxStudent() {
 
         Entry<String, Long> entry = list.stream()
@@ -130,7 +135,7 @@ import java.util.stream.Collectors;
 
     }
     
-## 14.
+## 14. find findTheAverageRankInAllDepartments
     public static void findTheAverageRankInAllDepartments() {
 
         Map<String, Double> collect = list.stream()
@@ -140,7 +145,7 @@ import java.util.stream.Collectors;
 
     }
 
-## 15.
+## 15. find findHighRankInEachDepartment
     public static void findHighRankInEachDepartment() {
 
         Map<String, Optional<Student>> collect = list.stream().collect(Collectors.groupingBy(Student::getDepartmantName,
@@ -150,7 +155,7 @@ import java.util.stream.Collectors;
 
     }
     
-## 16.
+## 16. find sortTheStudentsBasedonRank
     public static void sortTheStudentsBasedonRank() {
 
         List<Student> collect = list.stream().sorted(Comparator.comparing(Student::getRank))
@@ -160,7 +165,7 @@ import java.util.stream.Collectors;
         System.out.println(collect);
     }
 
-## 17.
+## 17. find findTheSecondHighestRank
     public static void findTheSecondHighestRank() {
 
         Student student = list.stream().sorted(Comparator.comparing(Student::getRank)).skip(1).findFirst().get();
@@ -169,7 +174,7 @@ import java.util.stream.Collectors;
 
     }
     
-## 18.
+## 18. find displayRanksInEachDepartmentInDecendingOrder
     public static void displayRanksInEachDepartmentInDecendingOrder() {
 
         Map<String, List<Student>> collect = list.stream()
