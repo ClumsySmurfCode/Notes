@@ -1,8 +1,12 @@
-Java 8, the map and flatMap operations are commonly used in the context of streams.
-Let's explore both concepts with examples:
+# Java 8, the map and flatMap operations are commonly used in the context of streams.
+![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/fc436641-8ad3-4f42-a0c9-b510811e4b3a)
+
 
 ## 1. map Operation:
 The map operation is used to transform each element of a stream using a provided function. It applies the function to each element and produces a new stream of the transformed values.
+
+![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/cd66ce1c-a514-469c-9bb3-7b00bc9a7d24)
+
 
 Example:
 Suppose you have a list of integers, and you want to create a new stream where each integer is squared.
@@ -29,6 +33,9 @@ In this example, the map operation applies the lambda function (x -> x * x) to e
 
 ## 2. flatMap Operation:
 The flatMap operation is used when each element of the stream is mapped to multiple values, and you want to flatten these multiple values into a single stream.
+
+![image](https://github.com/himanshumalvi/himanshumalvi/assets/45842963/a488423a-2664-4a6b-b76c-927cb4802c0b)
+
 
 Example:
 Suppose you have a list of words, and you want to create a stream of all distinct letters present in these words.
