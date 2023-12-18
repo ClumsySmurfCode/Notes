@@ -41,28 +41,28 @@ Constraints:</br>
 `-100 <= nums[i] <= 100`</br>
 `nums is sorted in non-decreasing order.`</br>
 
-        class Solution {
-    public int removeDuplicates(int[] nums) {
-        /*Map<Integer,Integer> map = new HashMap<>();
-        int k = 0;
-        for(int i = 0; i<nums.length;i++){
-           if(map.containsKey(nums[i])){
-                map.put(nums[i],i);
-                k++;
-           }
-          
-        }
-        return k;*/
-        int j = 1;
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] != nums[i - 1]) {
-                nums[j] = nums[i];
-                j++;
+            class Solution {
+                public int removeDuplicates(int[] nums) {
+                    /*Map<Integer,Integer> map = new HashMap<>();
+                    int k = 0;
+                    for(int i = 0; i<nums.length;i++){
+                       if(map.containsKey(nums[i])){
+                            map.put(nums[i],i);
+                            k++;
+                       }
+                      
+                    }
+                    return k;*/
+                    int j = 1;
+                    for (int i = 1; i < nums.length; i++) {
+                        if (nums[i] != nums[i - 1]) {
+                            nums[j] = nums[i];
+                            j++;
+                        }
+                    }
+                    return j;
+                    /*
+                    0 1 2 3 4
+                    */
+                }
             }
-        }
-        return j;
-        /*
-        0 1 2 3 4
-        */
-    }
-}
