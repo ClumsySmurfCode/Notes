@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Himanshu Malvi 
+# 👋 Hi there, I'm #HimanshuMalvi.in
 [<img align="left" alt="Discord" width="40px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][Discord]
 [<img align="left" alt="Gmail" width="40px" src="https://w7.pngwing.com/pngs/426/710/png-transparent-email-logo-computer-icons-gmail-miscellaneous-angle-photography.png" />][Gmail] 
 <br/>
