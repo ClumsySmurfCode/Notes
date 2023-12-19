@@ -71,13 +71,13 @@ Let's build the future of technology together! 💻🌐✨
 - Reactive Prog., WebFlux, JPA, Routers, Pub-Sub ELK | Zipkin | Histrix, Nodejs(TypeScript)
 
 #### DB: 
-- PostgreSQL, MongoDB
+- PostgreSQL
 
 #### DevOps 
-- Docker | Kubernetes| AWS GitHub Actions.
+- Docker | Kubernetes| AWS | GitHub Actions.
 
 #### Improving skills in 
-- DSA (DS, System Design and Algo.) 2020 till Today
+- DSA (DS, System Design and Algo.)
 
 [Discord]: https://discord.com/
 [Gmail]: https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
