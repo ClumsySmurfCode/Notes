@@ -42,3 +42,11 @@ nums contains distinct values sorted in ascending order.</br>
     
             return start;
         }
+
+**O(n)**
+
+      for(int i=0;i<nums.length;i++){
+                  if(nums[i]>=target)
+                      return i;
+      }
+      return nums.length;
