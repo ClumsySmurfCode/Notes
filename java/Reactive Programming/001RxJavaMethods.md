@@ -38,6 +38,9 @@
 - ### `map`
 Transforms the items emitted by an Observable by applying a function to each item.
 
+![image](https://github.com/user-attachments/assets/78bc388a-3a53-45f1-bb89-e7c8c357e222)
+
+
 ```
 Observable<Integer> observable = Observable.just(1, 2, 3);
 observable.map(item -> item * 2)
@@ -52,6 +55,7 @@ Observable<Integer> observable = Observable.just(1, 2, 3);
 observable.flatMap(item -> Observable.just(item * 2))
           .subscribe(System.out::println);
 ```
+
 
 ## 3. Filtering Observables
 ![image](https://github.com/user-attachments/assets/67bfd13d-e95f-446f-a05d-30f3fcd5bdd8)
