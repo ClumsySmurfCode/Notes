@@ -78,6 +78,17 @@ observable.distinct()
           .subscribe(System.out::println);
 ```
 
+## Reducing Operators  
+![image](https://github.com/user-attachments/assets/8e67fb19-a908-42c8-ad0c-2fa4e7ddc94f)
+
+![image](https://github.com/user-attachments/assets/8976a7dd-3592-4955-8896-e4561f52b1ff)
+
+![image](https://github.com/user-attachments/assets/28b12952-c3e7-45ec-94e5-43f324325ea4)
+
+![image](https://github.com/user-attachments/assets/db4aff9f-2ffe-479d-8b8b-e9b3b07a8026)
+
+
+
 ## 4. Combining Observables
 - ### `merge`
 Combine multiple Observables into one by merging their emissions.
