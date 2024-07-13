@@ -63,8 +63,6 @@ observable.flatMap(item -> Observable.just(item * 2))
 ```
 
 ## 3. Filtering Observables
-![image](https://github.com/user-attachments/assets/2e1bc494-8fde-4b90-8999-64ac0b0bebde)
-
 
 ![image](https://github.com/user-attachments/assets/67bfd13d-e95f-446f-a05d-30f3fcd5bdd8)
 
