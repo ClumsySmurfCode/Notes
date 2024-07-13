@@ -32,6 +32,8 @@
   ```
 
 ## 2. Transforming Observables
+![image](https://github.com/user-attachments/assets/cf4620de-23e9-49b2-8441-ef93546c8002)
+
 
 - ### `map`
 Transforms the items emitted by an Observable by applying a function to each item.
@@ -52,6 +54,8 @@ observable.flatMap(item -> Observable.just(item * 2))
 ```
 
 ## 3. Filtering Observables
+![image](https://github.com/user-attachments/assets/67bfd13d-e95f-446f-a05d-30f3fcd5bdd8)
+
 - ### `filter`
 Emit only those items from an Observable that pass a predicate test.
 
