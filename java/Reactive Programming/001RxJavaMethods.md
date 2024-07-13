@@ -94,6 +94,7 @@ observable.distinct()
 
 - ### `merge`
 Combine multiple Observables into one by merging their emissions.
+![image](https://github.com/user-attachments/assets/8f2e69d5-b8aa-476b-9ff0-ba89c556211e)
 
 ```
 Observable<String> observable1 = Observable.just("Hello");
