@@ -102,6 +102,10 @@ Observable<String> observable2 = Observable.just("World");
 Observable.merge(observable1, observable2)
           .subscribe(System.out::println);
 ```
+
+- ### concat
+ ![image](https://github.com/user-attachments/assets/d79bc99d-23e8-4e35-b5c7-f4ab396b57bc)
+
 - ### `zip`
 Combine multiple Observables into one by combining their emissions with a specified function.
 
