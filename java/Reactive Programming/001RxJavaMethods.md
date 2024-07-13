@@ -90,6 +90,8 @@ observable.distinct()
 
 
 ## 4. Combining Observables
+![image](https://github.com/user-attachments/assets/d260ba47-0782-417f-8828-92cf2cbc7643)
+
 - ### `merge`
 Combine multiple Observables into one by merging their emissions.
 
