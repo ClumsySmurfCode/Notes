@@ -1,3 +1,35 @@
+<hr></hr> 
+
+👋 I'm `[HimanshuMalvi.in]`, a dedicated software engineer with Java and MicroServices development expertise using Spring Boot. My journey in the tech world is fueled by curiosity, constant learning, and a drive to contribute to innovative solutions.
+
+🌟 Skills:
+
+Expert: Java, MicroServices (Spring-boot), PostgreSQL
+Beginner: Python, Cloud, DevOps, Linux, NLP and AI, Reactive Programming and Multithreading 
+Improving: System Design, StoryTelling
+
+🔍 Focus Areas:
+
+Java Development
+MicroServices Architecture, Cloud Technologies, DevOps Practices, Linux Environments
+
+🎯 Future Vision:
+
+I aspire not only to be a Microservices Architect but also a storyteller of technology solutions. I believe in conveying complex technical concepts through compelling narratives, making technology accessible and exciting for everyone.
+
+🌐 Connect with me:
+
+Feel free to reach out for discussions, collaborations, or just a friendly chat! I'm open to connecting with fellow tech enthusiasts, industry professionals, and anyone passionate about the intersection of technology and storytelling.
+
+- 📫 Reach out to me
+  - Discord - himanshumalvi.in
+  - www.dev.to - https://dev.to/himanshumalvi
+
+[Discord]: https://discord.com/ 
+[Gmail]: https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
+[<img align="left" alt="Discord" width="40px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][Discord]
+[<img align="left" alt="Gmail" width="40px" src="https://w7.pngwing.com/pngs/426/710/png-transparent-email-logo-computer-icons-gmail-miscellaneous-angle-photography.png" />][Gmail]
+</br>
 <hr></hr>
 <div style=" justify-content: space-between;">
 
@@ -14,32 +46,3 @@
 </div>
 
 </div>
-<hr></hr> 
-
-👋 Greetings! I'm Himanshu Malvi, a dedicated software engineer with expertise in Java and MicroServices development using Spring Boot. My journey in the tech world is fueled by curiosity, constant learning, and a drive to contribute to innovative solutions.
-
-🌟 Skills:
-
-Expert: Java, MicroServices (Spring-boot), PostgreSQL
-Beginner: Python, Cloud, DevOps, Linux, NLP and AI, Reactive Programing and Multithreading 
-Improving: System Design, StoryTelling
-
-🔍 Focus Areas:
-Java Development
-MicroServices Architecture, Cloud Technologies, DevOps Practices, Linux Environments
-
-🎯 Future Vision:
-I aspire not only to be a Microservices Architect but also a storyteller of technology solutions. I believe in the art of conveying complex technical concepts through compelling narratives, making technology accessible and exciting for everyone.
-
-🌐 Connect with me:
-Feel free to reach out for discussions, collaborations, or just a friendly chat! I'm open to connecting with fellow tech enthusiasts, industry professionals, and anyone passionate about the intersection of technology and storytelling.
-
-- 📫 Reach out to me
-  - Discord - himanshumalvi.in
-  - www.dev.to - https://dev.to/himanshumalvi
-<hr></hr>
-
-[Discord]: https://discord.com/ 
-[Gmail]: https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
-[<img align="left" alt="Discord" width="40px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][Discord]
-[<img align="left" alt="Gmail" width="40px" src="https://w7.pngwing.com/pngs/426/710/png-transparent-email-logo-computer-icons-gmail-miscellaneous-angle-photography.png" />][Gmail] 
