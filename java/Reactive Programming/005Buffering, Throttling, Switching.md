@@ -56,6 +56,8 @@ In this example, throttleLast emits the last item in each 250-millisecond window
 ### `debounce`
 debounce only emits an item from an Observable if a particular timespan has passed without it emitting another item.
 
+![image](https://github.com/user-attachments/assets/7776a883-0461-48d6-9c9b-287f13c0c40e)
+
 Example
 ```java
 Observable.create(emitter -> {
