@@ -182,3 +182,7 @@ Observable<String> observable = Observable.just("Hello, world!");
 observable.observeOn(Schedulers.newThread())
           .subscribe(System.out::println);
 ```
+
+## 8. Connectable Observableles 
+![image](https://github.com/user-attachments/assets/c28fded0-9808-40a0-bd7c-ddb0cbf7e2b3)
+
