@@ -21,12 +21,13 @@ Observable.interval(100, TimeUnit.MILLISECONDS)
 In this example, the buffer operator collects three items emitted by the source Observable and emits them as a list. The output will be lists of three items each.
 
 ## Throttling
-![image](https://github.com/user-attachments/assets/dbb33b2e-e8da-45e6-be33-44de4c8f742d)
 
 Throttling involves controlling the rate at which items are emitted by an Observable. This is useful to limit the number of emissions within a certain time frame.
 
 ### `throttleFirst`
 throttleFirst emits the first item in each time window of a specified duration.
+
+![image](https://github.com/user-attachments/assets/dbb33b2e-e8da-45e6-be33-44de4c8f742d)
 
 #### Example
 ```java
@@ -39,6 +40,9 @@ In this example, throttleFirst emits the first item in each 250-millisecond wind
 
 ### `throttleLast / sample`
 throttleLast (alias sample) emits the last item in each time window of a specified duration.
+
+![image](https://github.com/user-attachments/assets/71758350-f16e-4f8d-84b3-dd7fb2920913)
+
 
 Example
 ```java
