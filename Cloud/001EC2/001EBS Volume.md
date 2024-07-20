@@ -25,7 +25,10 @@ Description of the Diagram
 
 ![image](https://github.com/user-attachments/assets/a8bcec1f-ff14-4b49-a8a0-a7b44740c8e2)
 
-  
+```
+When creating EC2 instances, you can only use the following EBS volume types as boot volumes:
+gp2, gp3, io1, io2, and Magnetic (Standard).
+```
 
 ### Key Features
 
