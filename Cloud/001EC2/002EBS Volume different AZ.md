@@ -52,3 +52,6 @@ Amazon EBS volumes are designed to be used within a single Availability Zone (AZ
     - Select the snapshot and click "Actions" -> "Create Volume".
     - Choose the desired AZ for the new volume.
     - Specify volume type and size, and create the volume.
+
+### Snapshot Feature 
+![image](https://github.com/user-attachments/assets/b13e9f4b-f56b-42c4-9a97-007b251d4659)
