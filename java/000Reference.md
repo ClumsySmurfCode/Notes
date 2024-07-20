@@ -63,7 +63,7 @@
  - Stream API coding
 
 
-𝟳: 𝗗𝗲𝘃𝗼𝗽𝘀 𝗾𝘂𝗲𝘀𝘁𝗶𝗼𝗻𝘀 𝗼𝗻 𝗱𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀
+𝟳: 𝗗𝗲𝘃𝗼𝗽𝘀 𝗼𝗻 𝗱𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁 𝗧𝗼𝗼𝗹𝘀
  - DevOps/deployment-related tools, common tools like Jenkins, Kubernetes, Kafka, Cloud, and all
 
 
