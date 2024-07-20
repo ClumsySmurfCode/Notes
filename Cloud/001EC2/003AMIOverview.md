@@ -2,6 +2,11 @@
 
 ## What is an AMI?
 Amazon Machine Image (AMI) is a pre-configured template containing the information required to launch an instance, which is a virtual server in the cloud. AMIs include the following:
+```
+AMIs are built for a specific AWS Region, they're unique for each AWS Region.
+ You can't launch an EC2 instance using an AMI in another AWS Region,
+but you can copy the AMI to the target AWS Region and then use it to create your EC2 instances.
+```
 - **Operating System**: Such as Windows, Linux, or macOS.
 - **Application Server**: Middleware software like Apache, IIS, etc.
 - **Applications**: Installed software and other configuration settings.
