@@ -3,6 +3,12 @@
 ## What is an EC2 Instance Store?
 AWS EC2 Instance Store provides temporary block-level storage for your instance. This storage is located on disks that are physically attached to the host computer. Instance store is ideal for temporary storage of information that changes frequently, such as buffers, caches, scratch data, and other temporary content, or for data that is replicated across a fleet of instances.
 
+#### You are running a high-performance database that requires an IOPS of 310,000 for its underlying storage. What do you recommend? 
+***
+You can run a database on an EC2 instance that uses an Instance Store, but you'll have a problem that the data will be lost if the EC2 instance is stopped (it can be restarted without problems). One solution is that you can set up a replication mechanism on another EC2 instance with an Instance Store to have a standby copy. Another solution is to set up backup mechanisms for your data. It's all up to you how you want to set up your architecture to validate your requirements. In this use case, it's around IOPS, so we have to choose an EC2 Instance Store.
+
+***
+
 ## Key Features
 1. **Temporary Storage**: Data is lost when the instance stops, terminates, or fails.
 2. **High I/O Performance**: Instance store provides very high random I/O performance and low latency.
