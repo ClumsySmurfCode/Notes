@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/57e4b7f7-82e4-4d8d-bdea-e2ce3b4a97be)
+
 # EBS Volume Types
 <hr>
 
