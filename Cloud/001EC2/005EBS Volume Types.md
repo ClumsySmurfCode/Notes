@@ -1,4 +1,5 @@
-# EBS Volume Types of EBS Volumes
+# EBS Volume Types
+<hr>
 
 ### 1. General Purpose SSD (gp3 and gp2)
 - **Description**: Balanced price and performance for a wide variety of workloads.
