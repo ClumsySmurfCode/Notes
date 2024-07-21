@@ -1,5 +1,8 @@
 # Application Load Balancer (ALB)
 
+![image](https://github.com/user-attachments/assets/9e0869dd-cc21-4879-a8c2-dd7d0e556c89)
+Reference : https://docs.aws.amazon.com/elasticloadbalancing/latest/application/introduction.html
+
 ## What is an Application Load Balancer?
 An Application Load Balancer (ALB) is a service provided by AWS that distributes incoming application traffic across multiple targets, such as EC2 instances, in multiple Availability Zones. ALB operates at the application layer (Layer 7 of the OSI model), which allows it to make routing decisions based on content of the request.
 
