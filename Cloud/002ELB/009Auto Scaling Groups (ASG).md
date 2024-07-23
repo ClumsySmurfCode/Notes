@@ -160,3 +160,12 @@ Auto Scaling Groups (ASG) in AWS are a critical feature that helps maintain appl
 - **Any custom metric**: Metrics that you push using CloudWatch
 
 ![image](https://github.com/user-attachments/assets/b4dda322-3a88-4ed8-8501-7a17111fb423)
+
+
+## Auto Scaling Groups - Scaling Cooldowns
+
+- **Cooldown Period**: After a scaling activity happens, you enter a cooldown period (default 300 seconds).
+- **Purpose**: During the cooldown period, the ASG will not launch or terminate additional instances to allow for metrics to stabilize.
+- **Advice**: Use a ready-to-use AMI to reduce configuration time, serve requests faster, and reduce the cooldown period.
+
+![image](https://github.com/user-attachments/assets/5e8046ed-74d8-4063-ac8b-bfd9e047fde1)
