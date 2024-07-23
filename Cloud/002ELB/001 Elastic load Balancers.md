@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/35b3187a-882f-4f8a-b3bc-ba0affdd33f4)
+
+
 # Scalability & High Availability
 
 - **Scalability** means that an application/system can handle greater loads by adapting.
