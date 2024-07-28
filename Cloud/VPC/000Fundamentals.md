@@ -167,3 +167,8 @@ Below is a flow diagram illustrating how VPC Peering works:
 3. **Accept Peering Connection**: Accept the peering connection request from the Accepter VPC.
 4. **Update Route Tables**: Update the route tables of each VPC to include routes that direct traffic to the peered VPC.
 5. **Configure Security Groups**: Modify the security groups to allow traffic from the peered VPC.
+
+
+## Three Tier architecture 
+
+![image](https://github.com/user-attachments/assets/aab5420b-56c6-409f-99a7-2bfa8d2e29dc)
