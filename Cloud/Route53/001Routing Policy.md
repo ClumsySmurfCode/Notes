@@ -68,14 +68,47 @@ If you have two web servers and you want 70% of traffic to go to the first serve
 #### Example
 If a user in Europe queries your domain, Route 53 routes the request to the European server because it has the lowest latency for that user.
 
-### `Failover Routing Policy`
+### `Failover Routing Policy`  
 
-#### Overview
+The **Failover Routing Policy** in Amazon Route 53 is used to create an active-passive failover configuration. This ensures that traffic is routed to a primary resource when it is healthy and automatically fails over to a secondary resource if the primary becomes unhealthy.
+
+- **Primary and Secondary Resources**:
+  - **Primary Resource**: The main resource to which traffic is routed under normal conditions.
+  - **Secondary Resource**: The backup resource that receives traffic when the primary resource fails.
+
+- **Health Checks**:
+  - Health checks are essential for failover routing to monitor the health of the primary and secondary resources.
+  - Route 53 will only route traffic to resources that are deemed healthy based on the health checks.
+  #### Route 53 Health Checks
 - **Use Case**: For configuring active-passive failover.
 - **Functionality**: Routes traffic to a primary resource unless it is unavailable, then fails over to a secondary resource.
 
-#### Example
-You have a primary website and a backup website. Route 53 will route traffic to the primary unless a health check fails, at which point it will route to the backup site.
+    ![image](https://github.com/user-attachments/assets/ed29651d-05e3-4b1d-9cc4-52440dc3b5cf)
+    
+    #### HTTP Health Checks
+    
+    - **Scope**: Only for public resources
+    - **Usage**: Automate DNS Failover
+    
+    #### Automated DNS Failover
+    
+    1. **Health Checks that Monitor an Endpoint**:
+       - Monitors applications, servers, or other AWS resources.
+    2. **Health Checks that Monitor Other Health Checks (Calculated Health Checks)**:
+       - Aggregates the results of multiple health checks to determine overall health.
+    3. **Health Checks that Monitor CloudWatch Alarms**:
+       - Provides full control and flexibility.
+       - Useful for monitoring:
+         - Throttles of DynamoDB
+         - Alarms on RDS
+         - Custom metrics
+         - Other private resources
+    
+    #### Integration with CloudWatch
+    
+    - **CloudWatch Metrics**:
+      - Health checks are integrated with CloudWatch metrics for monitoring and alerting.
+
 
 ### `Geolocation Routing Policy`
 
