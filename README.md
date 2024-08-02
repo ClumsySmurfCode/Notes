@@ -1,6 +1,6 @@
 <hr></hr> 
 
-👋 I'm `[HimanshuMalvi.in]`, a dedicated software engineer with Java and MicroServices development expertise using Spring Boot. My journey in the tech world is fueled by curiosity, constant learning, and a drive to contribute to innovative solutions.
+👋 A dedicated software engineer with Java and MicroServices development expertise using Spring Boot. My journey in the tech world is fueled by curiosity, constant learning, and a drive to contribute to innovative solutions.
 
 🌟 Skills:
 
