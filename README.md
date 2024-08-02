@@ -27,19 +27,3 @@ Feel free to reach out for discussions, collaborations, or just a friendly chat!
 [<img align="left" alt="Discord" width="40px" src="https://cdn.logojoy.com/wp-content/uploads/20210422095037/discord-mascot.png" />][Discord]
 [<img align="left" alt="Gmail" width="40px" src="https://w7.pngwing.com/pngs/426/710/png-transparent-email-logo-computer-icons-gmail-miscellaneous-angle-photography.png" />][Gmail]
 </br>
-<hr></hr>
-<div style=" justify-content: space-between;">
-
-<div style="width: 500px;">
-  <a href="https://github.com/himanshumalvi/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=himanshumalvi" alt="Himanshu's GitHub stats">
-  </a>
-</div>
-<hr></hr>
-<div style="width: 500px;">
-  <a href="https://github.com/himanshumalvi/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumalvi&layout=compact" alt="Top Langs">
-  </a>
-</div>
-
-</div>
