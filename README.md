@@ -21,9 +21,6 @@ I aspire not only to be a Microservices Architect but also a storyteller of tech
 
 Feel free to reach out for discussions, collaborations, or just a friendly chat! I'm open to connecting with fellow tech enthusiasts, industry professionals, and anyone passionate about the intersection of technology and storytelling.
 
-- 📫 Reach out to me
-  - Discord - himanshumalvi.in
-  - www.dev.to - https://dev.to/himanshumalvi
 
 [Discord]: https://discord.com/ 
 [Gmail]: https://accounts.google.com/signin/v2/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&service=mail&sacu=1&rip=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin
