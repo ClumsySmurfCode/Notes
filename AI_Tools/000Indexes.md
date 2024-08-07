@@ -1,6 +1,6 @@
 # Table of Contents
 
-1. [NLP Blogs](000Blogs.md#introduction)
+1. [NLP Blogs](000Blogs.md#NLP)
 2. [ChatGPT](#Intro)
 3. [Usage](#usage)
     - [Basic Usage](#basic-usage)
